@@ -18,5 +18,5 @@ A Monopoly board game built with WPF as a learning project to practice C#, Entit
 
 ```
 MonopolyDLL/        # game logic, models, EF DbContext
-MonopolyEntity/     # WPF views and viewmodels
+MonopolyEntity/     # WPF views 
 ```
