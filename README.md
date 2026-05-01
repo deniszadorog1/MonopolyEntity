@@ -4,7 +4,7 @@ A Monopoly board game built with WPF as a learning project to practice C#, Entit
 
 ## Stack
 - **C# / WPF** — desktop UI
-- **Entity Framework** — data persistence (Code First)
+- **Entity Framework** — data persistence (DB First)
 - **Material Design in XAML** — UI components
 
 ## Getting Started
