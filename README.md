@@ -31,8 +31,6 @@ A Monopoly game built with C# and WPF as a learning project — inspired by [mon
 ![Inventory](MonopolyEntity/Visuals/Inventory.png)
 ![Case Opening](MonopolyEntity/Visuals/Case.png)
 
-> Add your screenshots to the `Images/` folder to display them here.
-
 ## Stack
 
 - **C# / WPF** — desktop UI
