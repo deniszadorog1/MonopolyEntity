@@ -2,7 +2,7 @@
 
 A Monopoly game built with C# and WPF as a learning project — inspired by [monopoly-one.com](https://monopoly-one.com/).
 
-![Gameplay](Visuals/GameProcess.png)
+![Gameplay](MonopolyEntity/Visuals/GameProcess.png)
 
 ## Features
 
