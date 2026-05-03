@@ -27,9 +27,9 @@ A Monopoly game built with C# and WPF as a learning project — inspired by [mon
 
 ## Screenshots
 
-![Business Card](Visuals/BusinessCard.png)
-![Inventory](Visuals/Inventory.png)
-![Case Opening](Visuals/Case.png)
+![Business Card](MonopolyEntity/Visuals/BusinessCard.png)
+![Inventory](MonopolyEntity/Visuals/Inventory.png)
+![Case Opening](MonopolyEntity/Visuals/Case.png)
 
 > Add your screenshots to the `Images/` folder to display them here.
 
